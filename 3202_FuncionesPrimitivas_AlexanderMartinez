@@ -1,0 +1,9 @@
+% Funciones primitivas
+% Alexander Martinez Cisneros
+% Fecha 23 de Junio del 2021
+
+clear all
+clc
+syms x
+f=input('Ingresar funcion: ')
+inegral=int(f,x)
